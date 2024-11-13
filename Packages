@@ -2783,12 +2783,12 @@ Maintainer: Crassna
 Installed-Size: 1076
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: ./debs/com.nx.appcardlite_3.1.0_iphoneos-arm64.deb
-Size: 231304
-MD5sum: d7ed0d9d24cd39e8a5e43ef61aa629c1
-SHA1: 743087beea0b64c6d2c6c2fb69ec6f3eca73b7b8
-SHA256: 793789da5438b8e37c61d9f4c8791a92ac81684459538e0a19005b94cfd80d45
+Size: 231468
+MD5sum: 95b391f4a9ef4e5eef29aa82ec75cfcb
+SHA1: b6120fba5f455540ee3a992bd2970a604c6f3fca
+SHA256: 64b80f1339f33c4596a7a8f88beafd23149ef7f2fef94213f183e658afaac7df
 Section: 分屏插件
-Description: 国人开发，体验极佳！吊打 o2，即触即发！呼出方式详见vcr
+Description: 一个不一样的分屏插件。
 Author: Crassna
 Icon: https://axs66.github.io/repo/icon/applecard.png
 Name: App Lecard 分屏插件
