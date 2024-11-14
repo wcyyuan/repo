@@ -602,6 +602,28 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ThemePro/js.json
 
+Package: com.Axs.ThemePro
+Version: 3.1.4
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.ThemePro_3.1.4_iphoneos-arm64.deb
+Size: 6287292
+MD5sum: d62a4f53b5de1b4cb1d853a83422e70f
+SHA1: d079145ddd1117ba3d8695fea608625b46918dd2
+SHA256: 44754e7ec37513723c149af5a5d264a7eb18e40f97da0e3125fbb1a11c048403
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
 Package: com.Axs.actionbar
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -1734,28 +1756,6 @@ Author: Brend0n <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/settings.png
 Name: 注销不锁屏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.AxsThemePro
-Version: 3.1.4
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: MustangYM
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Provides: ThemePro
-Filename: ./debs/com.AxsThemePro_3.1.4_iphoneos-arm64.deb
-Size: 6287292
-MD5sum: b03721748226c6bc6446f2ebc3ba0be4
-SHA1: 62d94bfc39717eebe6566c2862e3276d0494f194
-SHA256: 7dcced441cb6d8fa79fae43fb74d39b22e3b49ee4d6d3468a9692dffbeea37e0
-Section: 微信插件
-Priority: optional
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ThemePro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
 Package: com.HBWechatHelper.ailun
 Version: 1.7.5
