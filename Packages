@@ -1672,6 +1672,24 @@ Icon: https://axs66.github.io/repo/icon/TVZ.png
 Name: Touch-Viz触摸轨迹
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/touchvis/js.json
 
+Package: com.Axs.uncar
+Version: 0.0.1-9
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos
+Installed-Size: 132
+Filename: ./debs/com.Axs.uncar_0.0.1-9_iphoneos-arm64.deb
+Size: 7368
+MD5sum: a5c3ee25ecb0dfdea9ad4e0544aef1a3
+SHA1: f2aa89bda128cbe057262a9cc2db5f45208adf65
+SHA256: b1325640980b0c0163ec63786b6f4713d36bbb3aaad897c2d2cd8e0370cf7f8b
+Section: Axs-Tweaks
+Description: 从捆绑包中提取 Asset.car 文件。从 Asset.car 文件中提取 png 图像的命令行工具。
+Tag: role::hacker
+Author: Elias Limneos
+Icon: https://axs66.github.io/repo/icon/TweakIcon.png
+Name: uncar
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.wcplugins.rootless
 Version: 0.1-3
 Architecture: iphoneos-arm64
