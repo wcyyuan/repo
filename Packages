@@ -1439,6 +1439,26 @@ Icon: https://axs66.github.io/repo/icon/SettingsRevamp.png
 Name: SettingsRevamp
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/settingsrevamp/js.json
 
+Package: com.Axs.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 888
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.Axs.settingsrevamp_3.0.1_iphoneos-arm64.deb
+Size: 206840
+MD5sum: 31c6a776ac10154b135ec5dd50dd8c15
+SHA1: 111f1d5f1be03bf4d349442eb16b585585742832
+SHA256: 9e8ac6b040eed05c8b5c9abe7a5f8de545a4b1286f88d4c0b3744db7ee6cefff
+Section: 越狱插件收纳
+Description: Customize the ios settings page
+Author: SOPPPra
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/SettingsRevamp.png
+Name: SettingsRevamp
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/settingsrevamp/js.json
+
 Package: com.Axs.settingsrevamp.hh
 Version: 2.1.1
 Architecture: iphoneos-arm64
