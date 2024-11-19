@@ -2900,6 +2900,24 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Nightwind
 
 Package: com.nx.appcardlite
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 5084
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.nx.appcardlite_1.0.0_iphoneos-arm64.deb
+Size: 1016780
+MD5sum: 296320fba7887f65084278f935b9a14f
+SHA1: 80ca290e0891569e0fa208008d54f515fce64492
+SHA256: 1664e4d190265772edcc5622bd0a5b0cfb538a6d77abf0c358acdd6ab7eea19d
+Section: 分屏插件
+Description: A !
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+Name: App Lecard分屏插件
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+
+Package: com.nx.appcardlite
 Version: 2.2.8
 Architecture: iphoneos-arm64
 Maintainer: Crassna
