@@ -2324,6 +2324,24 @@ Description: Faster iOS animation.
 Author: Hoangdus
 Name: Speedster
 
+Package: com.huam.wcenablecleanorigmsg
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huam.wcenablecleanorigmsg_1.0-2_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 161a3657cf31458c88e85756ec563ff0
+SHA1: 5c864699faa93eb6708bb3ce82c04b24ac2fe187
+SHA256: fcc2e6b96741c1b614d5d7107278d1b2125bf6900ba628a57bc800cedd94da5f
+Section: 微信插件
+Description: 启用54版本【原图、原视频14天后自动清理】
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCEnableCleanOrigMsg
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.jd4iphone
 Version: 1.3
 Architecture: iphoneos-arm64
