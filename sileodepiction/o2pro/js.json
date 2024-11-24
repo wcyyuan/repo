@@ -98,7 +98,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0",
+                    "text": "13.2",
                     "title": "插件版本"
                 },
                 {
@@ -108,7 +108,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 10 日",
+                    "text": "2024 年 11 月 24 日",
                     "title": "最后更新"
                 }
             ]
@@ -119,7 +119,14 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 13.0\n1.更新 悬浮键盘的新版本。\n2.侧栏完全对外放开 全权限可用。\n3. 已知来电视频免费用户可用。\n4. 即将开放另一功能免费给用户。\n5. （第3和4项功能，无需购买、无需Token）。",
+                    "markdown": "### ，13.2\n1.提升稳定性。\n2.修复部分用户来电视频不生效。\n3.新增内部独享功能:果奶悬浮键盘和果奶悬浮键盘自适应。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### ，13.0\n1.更新 悬浮键盘的新版本。\n2.侧栏完全对外放开 全权限可用。\n3. 已知来电视频免费用户可用。\n4. 即将开放另一功能免费给用户。\n5. （第3和4项功能，无需购买、无需Token）。",
                 },
                 {
                     "class": "DepictionSeparatorView"
