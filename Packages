@@ -2486,6 +2486,24 @@ Author: SquidForce
 Name: Plugins For Snapper3
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/Piiico/js.json
 
+Package: com.lecard.wuyu
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 5168
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_1.1.7_iphoneos-arm64.deb
+Size: 1053220
+MD5sum: c8e9e4889ccbd7dbd8a9809d79e839a4
+SHA1: 67828e6693ed30ab039d1f6c2c9006d8fd1cd3de
+SHA256: 20a3c406be6bc9d9f28f4dbc08c49e7fff0d08bfe2efd55342abc3d646f95870
+Section: Tweaks
+Description: 不要看版本号变成了1.1.7，实际上是在3.1.0之后，重新编译的版本。所以比3.1.0版本更新。
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+Name: App Lecard
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+
 Package: com.lenglengyu.shortvideodl-rootless
 Version: 1.8.0
 Architecture: iphoneos-arm64
