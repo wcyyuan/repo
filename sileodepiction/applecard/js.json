@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 2 日",
+                    "text": "2024 年 11 月 25 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,13 +88,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "3.3.1",
+                    "title": "1.1.7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "装逼版本，你们用不了，安心用3.1.0版本。",
+                    "markdown": "不要看版本号变成了1.1.7，实际上是在3.1.0之后，重新编译的版本。所以比3.1.0版本更新。。",
                     "useRawFormat": true
                 },
                {
