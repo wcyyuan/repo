@@ -2504,6 +2504,24 @@ Icon: https://axs66.github.io/repo/icon/applecard.png
 Name: App Lecard
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
 
+Package: com.lecard.wuyu
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 5232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_1.1.8_iphoneos-arm64.deb
+Size: 1059316
+MD5sum: e6373045c07f74cff02dda333b5b07a1
+SHA1: 32c31f90491452ed60d4b53a704785ba1ebe602d
+SHA256: 0b994a38b51f480675e1bc1a1fa4c7e964993d1fa87dfe75131ecd0411d144d1
+Section: 分屏插件
+Description: A !
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+Name: App Lecard
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+
 Package: com.lenglengyu.shortvideodl-rootless
 Version: 1.8.0
 Architecture: iphoneos-arm64
