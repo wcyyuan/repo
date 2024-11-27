@@ -1763,11 +1763,11 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.Axs.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
-Size: 23356
-MD5sum: bfbce2801302786895828c1d34260510
-SHA1: 2377050e546541ba3c23cc4d354942ca5e0bb930
-SHA256: e286800c2f5d1b7982591bed7a2bd2bd0677a483bc332accfee87898534cd7a0
-Section: Rootless
+Size: 23408
+MD5sum: bedeb4d7b8e03e8ff424fec8a8a6cc16
+SHA1: 8c3f3e29c3a8db9f83188f661605e523675b7316
+SHA256: fa88691d61ec2532ac03cb2dbc595cc46e041c894f398c194b069306521a5272
+Section: 微信插件
 Priority: optional
 Description: 插件管理Plus，长按插件图标可开启密码隐藏！
 Author: Mao
