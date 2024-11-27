@@ -2998,6 +2998,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChat通行证密钥
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnewminiappfloatingwindow/js.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-3_iphoneos-arm64.deb
+Size: 91304
+MD5sum: f293dae8a3c7a3cf8aa6ef7a34f8104e
+SHA1: 789ecd3325d0d38131d7b6c4582abbea426d722b
+SHA256: 6774ba99a62d4bce70faaf9f0ca1ef04bc3616267ec6c458b61858dae4363719
+Section: 微信插件
+Description: WeChat UISwitch Loader
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatUISwitchLoader
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.nightwind.jade
 Version: 1.0.3
 Architecture: iphoneos-arm64
