@@ -1760,21 +1760,21 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Package: com.Axs.wcplugins.rootless
 Version: 0.1-3
 Architecture: iphoneos-arm64
-Maintainer: Axs
+Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.Axs.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
-Size: 19780
-MD5sum: 2816f0b039ccbf286c49cbec23382bed
-SHA1: c0b09663591a877ada4246dbf2643320b0e0e422
-SHA256: 7d0df5fde898c2e3457a041105087993b4b764b530fbd325e105fe9855983bbd
-Section: 微信插件
+Size: 23356
+MD5sum: bfbce2801302786895828c1d34260510
+SHA1: 2377050e546541ba3c23cc4d354942ca5e0bb930
+SHA256: e286800c2f5d1b7982591bed7a2bd2bd0677a483bc332accfee87898534cd7a0
+Section: Rootless
 Priority: optional
-Description: 将微信插件全部收纳在一起方法操作，更美观。
+Description: 插件管理Plus，长按插件图标可开启密码隐藏！
 Author: Mao
 Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信插件管理
+Name: 微信插件管理Plus-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-Sponsor: Axs
+Sponsor: admin@25mao.com
 
 Package: com.Axs.wechatnotiavatar
 Version: 1.2-5
