@@ -295,6 +295,24 @@ Icon: https://axs66.github.io/repo/icon/filza.png
 Name: FilzaDirProbe
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.0xkuj.notificationsgroupcount
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.6_iphoneos-arm64.deb
+Size: 80260
+MD5sum: fe14059a6f459cd38a54968262fe895a
+SHA1: ce3565867a0e406760823739f0498ffe04a0150d
+SHA256: 448bcc74b0f56d569fe0bffa895a8aeca62fbfe05bea549d71ef85d57600c63f
+Section: 系统增强
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
+Name: NotificationsGroupCount仿ios18通知分组计数
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.0
 Architecture: iphoneos-arm64
