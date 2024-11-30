@@ -3315,6 +3315,63 @@ Name: libsparkcolourpicker
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: spark
 
+Package: com.spark.snowboard
+Version: 1.5.37-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3268
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64.deb
+Size: 1124240
+MD5sum: 964cb3a04166d63b0decf55615c9231f
+SHA1: ac0a8e4fe652e65f17a028107c686ac16488e5b3
+SHA256: 9cc38eadae67ae8f3cd87ee303ce46c5989833cff1ca3aa2be0d4657f6c79a12
+Section: 滑雪板
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Icon: https://axs66.github.io/repo/icon/snowboard.png
+Name: SnowBoard
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.spark.snowboard.effects
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 412
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64.deb
+Size: 33248
+MD5sum: d960d7cbe0cf64346bd5f07440df9f99
+SHA1: bc49c36fc8c95769752000233f17258b80dc5713
+SHA256: 50b58c22c327ad50580127ce2d878702d6e6cf6d77451d3def58ed55857317b5
+Section: 滑雪板
+Description: Icon Effects for SnowBoard
+Author: Spark
+Icon: https://axs66.github.io/repo/icon/snowboard.png
+Name: SnowBoard Icon Effects Extension
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.spark.snowboard.masks
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 340
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless_iphoneos-arm64.deb
+Size: 18884
+MD5sum: d701255139a1f4dfc7ab6027985e7dce
+SHA1: d7f991d2d43228c745d3fbc51d3c106d0b929b89
+SHA256: 91f91be1ddf5af17af606fb3165fba1af2710ecc5fe3d66c257a4d54eece41bb
+Section: 滑雪板
+Description: Icon masks for SnowBoard
+Author: Spark
+Icon: https://axs66.github.io/repo/icon/snowboard.png
+Name: SnowBoard Icon Masks Extension
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.sunshinesong.dynamic-notifier
 Version: 1.0.4
 Architecture: iphoneos-arm64
