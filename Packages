@@ -320,15 +320,15 @@ Maintainer: 0xkuj
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.7_iphoneos-arm64.deb
-Size: 80008
-MD5sum: 367a8850ba4612f96e9c434a98d1cba3
-SHA1: 3ea4b66aab0f26cd987c5ba6a801352284670245
-SHA256: 0ef00e2eeb0d655fb75e462fdb1c633970333547fe1581c5d7377b1c7176c35f
+Size: 80000
+MD5sum: 5e9ffdeb8403c0b1589e10f1bad5fc04
+SHA1: 642dc23cc34516bf789b0ee89c694557d4ef1bcc
+SHA256: d7d179d9db49c855c79e3278211c87272dd6809b9a07f38e62b967beda58cedb
 Section: 系统增强
 Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
 Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
-Name: NotificationsGroupCount
+Name: NotificationsGroupCount仿ios18通知分组计数
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.0xkuj.notificationsgroupcounts
