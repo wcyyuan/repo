@@ -313,6 +313,24 @@ Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
 Name: NotificationsGroupCount仿ios18通知分组计数
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.0xkuj.notificationsgroupcount
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.7_iphoneos-arm64.deb
+Size: 80008
+MD5sum: 367a8850ba4612f96e9c434a98d1cba3
+SHA1: 3ea4b66aab0f26cd987c5ba6a801352284670245
+SHA256: 0ef00e2eeb0d655fb75e462fdb1c633970333547fe1581c5d7377b1c7176c35f
+Section: 系统增强
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
+Name: NotificationsGroupCount
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -450,6 +468,24 @@ Size: 287160
 MD5sum: e312a462a8f6681b6cbca5b74011702e
 SHA1: cf41077a2014534a6a693543ba72785f43964034
 SHA256: cc9ed7b0bc600abfd6966addd04527a824c4d17be3514e2c69b1176dfad59144
+Section: 系统增强
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
+Package: com.0xkuj.safarix
+Version: 1.9.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.2_iphoneos-arm64.deb
+Size: 287132
+MD5sum: f9d0550b8bfbf2c315188a05237c3a9d
+SHA1: 44d766e1f88159274c81da011b2d267703a7a800
+SHA256: 73f1c779a074cc0d5a379adcb4cb2fb7273a9dce393854796683d3ff4e3b471a
 Section: 系统增强
 Description: Safari Essential Features
 Author: 0xkuj
