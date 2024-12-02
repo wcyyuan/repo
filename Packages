@@ -798,6 +798,28 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: AwemeDownloadMedia
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.bettercc
+Version: 0.0.55
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/com.Axs.bettercc_0.0.55_iphoneos-arm64.deb
+Size: 148848
+MD5sum: c815091ba6a5ca05123fafbe9ec08c38
+SHA1: 563d213a0f9dfa658f4d7abdfddbf512837be994
+SHA256: d10abb10d8af4c164b5e5009eaf39529149655d5e23fd650a1ceb9efea482070
+Section: 系统增强
+Description: Customize your Control Center!
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/bettercc.png
+Name: BetterCC
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.bigshot
 Version: 1.1
 Architecture: iphoneos-arm64
