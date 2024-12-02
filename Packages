@@ -100,6 +100,25 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemeManager-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: cax.zhumi.thememanager.rootless
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: zhumi
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/cax.zhumi.thememanager.rootless_1.6.4_iphoneos-arm64.deb
+Size: 1937932
+MD5sum: 4ee90bc86404aef7b2ba6899138f474e
+SHA1: 75b8c0017186204e1704893ee7d9290da454f1e8
+SHA256: 89b5ab6a07e36e9fa521866a0f76f3293ef2e92ed9b9eabc3a40abd77a79c988
+Section: 微信插件
+Priority: optional
+Description: 猪咪微信主题(无根越狱专用)(Rootless)
+Author: zhumi
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemeManager-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
 Package: cn.llld.wxx
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -1775,6 +1794,25 @@ Author: Axs
 Icon: https://axs66.github.io/repo/icon/swipeextender.png
 Name: SwipeExtenderX汉化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/js.json
+
+Package: com.Axs.themepro
+Version: 3.3.5
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/com.Axs.themepro_3.3.5_iphoneos-arm64.deb
+Size: 6820948
+MD5sum: 6deaf536c4ffc08225018366f57691b9
+SHA1: 1835778e3ed9ea2ef6dae164f3e97ebdc1e7c8a9
+SHA256: ee7fc3dddb6425e7367a623d8d75f5dde8db3bd1a7ff424140e9415be216500b
+Section: 微信插件
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro-3.3.5-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
 Package: com.Axs.touchvis
 Version: 2.8-1
@@ -3515,6 +3553,25 @@ Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 酸果 - Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/sutuplus/js.json
+
+Package: com.sutuplus.releasefugu15
+Version: 5.9.2-1
+Architecture: iphoneos-arm64
+Maintainer: Carly
+Installed-Size: 1748
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_5.9.2-1_iphoneos-arm64.deb
+Size: 485112
+MD5sum: 90207c365a5e721823a734d0370cb551
+SHA1: fe81eafc67206684f532171ad4b6f0ddda79822c
+SHA256: 343151c2251348f73c0e2c5d5d05c188e38c4dfa22f6ddf848ab0568e9cd8ebd
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: bysutu
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 酸果 - Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
 Package: com.swing.wechat.noads
 Version: 1.1.8-1
