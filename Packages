@@ -2446,6 +2446,24 @@ Author: 妖刀
 Name: CCLess++(rootless)
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/CCLess/js.json
 
+Package: com.hk.rootless.cc
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
+Filename: ./debs/com.hk.rootless.cc_2.0.6_iphoneos-arm64.deb
+Size: 515132
+MD5sum: 453a141b99a11ebc31d623b113c8e147
+SHA1: 6512b1587dc93793294f827cb27528d64871a88f
+SHA256: c46cbc9a8593718c09a0c6f12a3b827e2106619be94f9fa625d2c23d650fb26d
+Section: 系统增强
+Description: 超级控制中心模块集合！
+Author: 妖刀
+Icon: https://axs66.github.io/repo/icon/CCSettings.png
+Name: CCLess++(rootless)
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/CCLess/js.json
+
 Package: com.hoangdus.speedster
 Version: 2.1.1
 Architecture: iphoneos-arm64
