@@ -2620,6 +2620,24 @@ Name: Plugins For Snapper3
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/Piiico/js.json
 
 Package: com.lecard.wuyu
+Version: 1.1.10
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_1.1.10_iphoneos-arm64.deb
+Size: 391256
+MD5sum: c0e3aa04cb698f2220015d75c4d5a620
+SHA1: 5555ff3a37c5fc28a7c0b2ebe3e641ca41b24fa6
+SHA256: 48bbf880e71c4d8d2228bed8db55add7ed7d8f274ce036460f4c4f5512220bc5
+Section: 分屏插件
+Description: A !
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+Name: App Lecard
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+
+Package: com.lecard.wuyu
 Version: 1.1.7
 Architecture: iphoneos-arm64
 Maintainer: Crassna
