@@ -2698,10 +2698,10 @@ Maintainer: Crassna
 Installed-Size: 1884
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: ./debs/com.lecard.wuyu_1.2.1_iphoneos-arm64.deb
-Size: 388340
-MD5sum: 3507a72556775f97a14f6e65729a863b
-SHA1: e0238e24d720bcf6dfb9b49b565616b9618594d3
-SHA256: 4973e190764b853c95ff9bd8a5e3f5661083d34d7f1dbeb26c04817043490014
+Size: 385756
+MD5sum: eb80e6b91de30cf998380bc331dd9e3f
+SHA1: 92d5735c4dfee5263617e7363e12817e59efd99e
+SHA256: 1f850d626e24d41dd9e574d89d406260d81daea041909e1a9d9e7af2a6218a29
 Section: 分屏插件
 Description: A !
 Author: Crassna
