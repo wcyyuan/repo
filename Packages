@@ -3294,6 +3294,24 @@ Icon: https://axs66.github.io/repo/icon/applecard.png
 Name: App Lecard 分屏插件
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
 
+Package: com.nx.appcardlite
+Version: 3.3.3-END
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.nx.appcardlite_3.3.3-END_iphoneos-arm64.deb
+Size: 408756
+MD5sum: 72bfa9fdf7c52f9dc871ef829c281ed1
+SHA1: 4bc4e08ff3f32d66b3568d84ad0f0763e1e866ec
+SHA256: b5612f3de02468383ef8fb93faf943924080bdae7c601cef6fea3ab7ec12213f
+Section: 分屏插件
+Description: Jailbrea!
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+Name: App Lecard 分屏插件
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+
 Package: com.opa334.choicy
 Version: 1.4.10-3
 Architecture: iphoneos-arm64
