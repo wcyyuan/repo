@@ -3329,6 +3329,29 @@ Author: opa334 <opa334@protonmail.com>
 Depiction: https://opa334.github.io/depic/Choicy/index.html
 Name: Choicy
 
+Package: com.opa334.choicy
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 1114
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.opa334.choicy_1.5_iphoneos-arm64.deb
+Size: 159340
+MD5sum: 1a2a969077fd8bf3bce69950e1428476
+SHA1: 0a762af5f37ae9b3292ca87d9495cd82283c337e
+SHA256: 2c24a35aa0efc1146b5ab8e432b146e86a4d24155bf18b633b4e95db0bd730d6
+Section: 系统增强
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Name: Choicy
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.opa334.trollstorehelper
 Version: 2.0.15
 Architecture: iphoneos-arm64
