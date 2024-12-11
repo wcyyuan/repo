@@ -891,6 +891,24 @@ Icon: https://axs66.github.io/repo/icon/CCLiftToWake.png
 Name: CCLiftToWake
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.centra
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.centra_1.0_iphoneos-arm64.deb
+Size: 54564
+MD5sum: f07098da70307e5bbf1e9405ba828ff1
+SHA1: 99f13395fcfe07b0efcab493afb0bd8e470a22ec
+SHA256: e72de72d43bd618b30ea88431ce1597b3fbb3bd4bc6315499f24de1265a2525a
+Section: 系统增强
+Description: 自定义控制中心中模块的大小，包括连接和其他模块。
+Author: Hitori
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/centra.png
+Name: Centra
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.classicfolders
 Version: 3.0.5
 Architecture: iphoneos-arm64
@@ -1088,6 +1106,24 @@ Icon: https://axs66.github.io/repo/icon/keyboards.png
 Name: 强制使用第三方键盘
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
+
+Package: com.Axs.korboysfilzascripts
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: curl, dpkg, grep, sed, sudo, xyz.cypwn.pasteboard-utils, plistbuddy
+Filename: ./debs/com.Axs.korboysfilzascripts_1.4_iphoneos-arm64.deb
+Size: 10360
+MD5sum: e5b56ead91bc2cb192b45ef7be351acf
+SHA1: e65fd83f46eb2738c3cc2217b9189918442678f3
+SHA256: 3edc1fed6092a493c20294cb6a40255d38e9f99db1a79addebbc8d2fd8332326
+Section: Utilities
+Description: 有用的 Filza 脚本。
+Author: Korboy
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/filza.png
+Name: Filza Scripts
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.kuaidou
 Version: 0.1-1
