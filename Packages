@@ -1107,24 +1107,6 @@ Name: 强制使用第三方键盘
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
-Package: com.Axs.korboysfilzascripts
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: curl, dpkg, grep, sed, sudo, xyz.cypwn.pasteboard-utils, plistbuddy
-Filename: ./debs/com.Axs.korboysfilzascripts_1.4_iphoneos-arm64.deb
-Size: 10360
-MD5sum: e5b56ead91bc2cb192b45ef7be351acf
-SHA1: e65fd83f46eb2738c3cc2217b9189918442678f3
-SHA256: 3edc1fed6092a493c20294cb6a40255d38e9f99db1a79addebbc8d2fd8332326
-Section: Utilities
-Description: 有用的 Filza 脚本。
-Author: Korboy
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/filza.png
-Name: Filza Scripts
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
 Package: com.Axs.kuaidou
 Version: 0.1-1
 Architecture: iphoneos-arm64
