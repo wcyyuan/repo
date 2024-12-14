@@ -2445,6 +2445,25 @@ Icon: https://axs66.github.io/repo/icon/iCleanerPro.png
 Name: iCleaner Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/icleanerpro/js.json
 
+Package: com.github.wxsmalltabs
+Version: 0.0.1-5
+Architecture: iphoneos-arm64
+Maintainer: halo-michael
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.github.wxsmalltab
+Filename: ./debs/com.github.wxsmalltabs_0.0.1-5_iphoneos-arm64.deb
+Size: 12040
+MD5sum: f319133d2b4c9ab596131e305075faa6
+SHA1: b718aac8b6c1eaac055bdf3147974f1d63dd19b1
+SHA256: c29b1112e876ed4944c4d69dd98f8bc2c01316490908f293ee57dff6b1956feb
+Section: 微信插件
+Description: 微信底栏悬浮显示
+Author: Michael
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信小底栏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.hitori.misaki
 Version: 2.1.9
 Architecture: iphoneos-arm64
