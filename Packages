@@ -1744,6 +1744,24 @@ Icon: https://axs66.github.io/repo/icon/camera.png
 Name: 隐私相机SneakyCam
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.souvenir
+Version: 1.14
+Architecture: iphoneos-arm64
+Maintainer: Elio Feghali
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.souvenir_1.14_iphoneos-arm64.deb
+Size: 95956
+MD5sum: 9389ef24162dae0385153d3e7e7addf5
+SHA1: a7c47f917f086ca9e16cbcefaa7d1a16f4c6755e
+SHA256: 2724eb8988c927cab77f7cc0b4f7979384c1a5ba50328812d03b500c892f86ff
+Section: 系统增强
+Description: Lockscreen customization tweak!
+Author: Elio Feghali
+Icon: https://axs66.github.io/repo/icon/eliofeghali.png
+Name: Souvenir锁屏自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.split-view-pro
 Version: 1.3.7
 Architecture: iphoneos-arm64
