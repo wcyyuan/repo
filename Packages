@@ -3206,6 +3206,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信禁用热更新
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-2_iphoneos-arm64.deb
+Size: 33976
+MD5sum: 9bf7eca8dac7b9c0b9b55b6aa0c25b7d
+SHA1: 81d41bf9406fc46ac880be78cff43efa8ab69a71
+SHA256: 2c3fd07e7d2f66ca9feaa2d78d752619d387086788174d434aef823bf9990515
+Section: 微信插件
+Description: WeChat My Page Info Center, Supported only for version 8.0.51 and above
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信信息页居中
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.netskao.wcnewminiappfloatingwindow
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -3798,6 +3816,24 @@ SHA1: b37baefebb6d3f58db80482f5acd97ed81d7b3ef
 SHA256: c97e4e2f8b55ac2afa22eecbdcbd3120e4e2c6917c30b1a046f7a72de757c451
 Section: 微信插件
 Description: An awesome MobileSubstrate tweak!
+Author: WeChat
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 1.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 4000
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_1.0.2-1_iphoneos-arm64.deb
+Size: 1838576
+MD5sum: 5d5c19130405f6bf08e40e7a781254a3
+SHA1: 76daa727528cc68e7ed7737b52eb20dfb2a3e377
+SHA256: 3e14e92c37862be23fe5300d5e23577c70d198ab8d297e84d356e0224d1da86b
+Section: 微信插件
+Description: 微信主题盒子
 Author: WeChat
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 主题盒子
