@@ -3242,6 +3242,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCMyPageInfoCenter
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-7_iphoneos-arm64.deb
+Size: 52684
+MD5sum: 25fb21aeac19a9ebb46f1b3916a94071
+SHA1: dac653b50512d8aed301e034be8ea439a3f589c8
+SHA256: dd4b86c52a9d77aa797b6b03a97414c23b8272970e33536adfd1083d15c20caa
+Section: 微信插件
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信信息页居中WCMyPageInfoCenter
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.netskao.wcnewminiappfloatingwindow
 Version: 1.1-1
 Architecture: iphoneos-arm64
