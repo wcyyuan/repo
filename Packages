@@ -2034,6 +2034,25 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 语音转文字免跳转
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.wxurlexpand
+Version: 0.2-0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.Axs.wxurlexpand_0.2-0_iphoneos-arm64.deb
+Size: 34064
+MD5sum: 918d3fd2f4129f5a689d959e1d96bc8d
+SHA1: aae9d74dbb3bf7950d64aab01874e1d18adb9dd3
+SHA256: b90a92f826e4c3be1b2e759b32b3b0c391121e414b79f7335b74560a8bcd2a04
+Section: 微信插件
+Priority: optional
+Description: 扩展微信URLScheme接口，方便从外部调用
+Author: Mao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信URL扩展-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sponsor: Axs
+
 Package: com.Axs.zxbsp
 Version: 0.0.3
 Architecture: iphoneos-arm64
