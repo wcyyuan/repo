@@ -3369,6 +3369,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatUISwitchLoader
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 320
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64.deb
+Size: 121088
+MD5sum: 4ccb0885cd0d6965e297d7c0f39b7d87
+SHA1: 60923b541acf8542c59622bd9c507f714be6d501
+SHA256: 25603ac1beb9ab9a07a0a052d2f05a059ce3f2a6634a612c56ba804f61743527
+Section: 微信插件
+Description: WeChat UISwitch Loader
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatUISwitchLoader
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.nightwind.jade
 Version: 1.0.3
 Architecture: iphoneos-arm64
