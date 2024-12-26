@@ -762,6 +762,28 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro-3.1.7-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
+Package: com.Axs.ThemePro
+Version: 3.5.7
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.ThemePro_3.5.7_iphoneos-arm64.deb
+Size: 5683136
+MD5sum: f23eb225fa0fde64602a64ce56dd0e98
+SHA1: 53072e92e59ef8a3886332ec9bcffaccc59b8e19
+SHA256: 39113261d2ac88a711ad4f70b026fb8606c3b6284fce29fad8a98a07371f74a2
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro-3.5.7-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.actionbar
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -4129,6 +4151,23 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/dockx/js.json
+
+Package: com.wechat.ColorfulCube
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Seasons && huami
+Depends: mobilesubstrate
+Filename: ./debs/com.wechat.ColorfulCube_1.0-1_iphoneos-arm64.deb
+Size: 1457340
+MD5sum: 19bcccb859a33f024096afd89e4786f8
+SHA1: a074abafa8009936c5ea5ecf49f4592b70c1ea4a
+SHA256: 43db27bfcee0a2d69797aa6c027e552465a18bef27ce0b099b349cd36059e2a4
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons && huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 灵动方盒-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.yourepo.trollstore.telegramreturnenterkeyreturnkeychangedtosendfunct
 Version: 1.0
