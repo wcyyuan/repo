@@ -4205,6 +4205,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 灵动方盒-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.yan.stella
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: yan
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.stella_1.1.1_iphoneos-arm64.deb
+Size: 356700
+MD5sum: 71094dc4d627e148f6ae2530171fb47b
+SHA1: e805f8b06fbf0e60de9d0aab6d8c0d1c69059957
+SHA256: 551dd850b0be25edb6f41a9e0bd3a15583fc7249619baf6c01e74d41ac1db6c4
+Section: 系统增强
+Description: Let it snow on your device!
+Author: yan
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/stella.png
+Name: Stella
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/stella/js.json
+
 Package: com.yourepo.trollstore.telegramreturnenterkeyreturnkeychangedtosendfunct
 Version: 1.0
 Architecture: iphoneos-arm64
