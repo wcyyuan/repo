@@ -4501,6 +4501,25 @@ Icon: https://axs66.github.io/repo/icon/colorful.png
 Name: ColorfulWallpaperX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: xc.lzsxcl.o2
+Version: 7.2
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 26948
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2_7.2_iphoneos-arm64.deb
+Size: 16906572
+MD5sum: 4911f904d692a3e192e84439d80e8cc2
+SHA1: d573827877b4dcf2bad0a503690907bdcb5aeeaf
+SHA256: 80fab3881b1f5e8f94ce9f11df2726e4e40089464fe0cad54a3c08c76d03f0d6
+Section: 分屏插件
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2 Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
+
 Package: xc.lzsxcl.o2pro
 Version: 13.0
 Architecture: iphoneos-arm64
@@ -4554,6 +4573,25 @@ Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 15.0
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 21400
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_15.0_iphoneos-arm64.deb
+Size: 8024552
+MD5sum: 17dda921e12d1913dab17eadd144e003
+SHA1: e88c933949167e86010b6a9678b2c53b684b755a
+SHA256: 9989a24f07d52f4004cceba545c11d53dae1f16bc3c8056cf47b0af96016adfc
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
