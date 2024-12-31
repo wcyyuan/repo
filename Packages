@@ -2083,10 +2083,10 @@ Maintainer: Axs
 Installed-Size: 348
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.Axs.wechatxkeyboard_1.6_iphoneos-arm64.deb
-Size: 87268
-MD5sum: 0d032f9640e9953ff7d1c9d661bbda8c
-SHA1: cee4415b5e67b894dbfb051a3f02dc583ad1a97a
-SHA256: cb11b31e20f3d6fa57b6379e2207de0657f0dbcdaa8ef08258b2d59162f25de3
+Size: 60808
+MD5sum: 2d15376922b7cd8b9d7faac4faa80fef
+SHA1: 9dc049b597085d7686f0f8e6428cb1ad8a79ac92
+SHA256: 88f777aa56fc4e4186b41efca54f87b2d802224fd280776586efcd4d57ec6c77
 Section: Axs-Tweaks
 Description: 微信键盘自定义
 Author: Axs
