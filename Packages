@@ -2076,6 +2076,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatVersion33
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.wechatxkeyboard
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.Axs.wechatxkeyboard_1.6_iphoneos-arm64.deb
+Size: 87268
+MD5sum: 0d032f9640e9953ff7d1c9d661bbda8c
+SHA1: cee4415b5e67b894dbfb051a3f02dc583ad1a97a
+SHA256: cb11b31e20f3d6fa57b6379e2207de0657f0dbcdaa8ef08258b2d59162f25de3
+Section: Axs-Tweaks
+Description: 微信键盘自定义
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechatxkeyboard.png
+Name: 微信键盘自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.weifeng
 Version: 1.0
 Architecture: iphoneos-arm64
