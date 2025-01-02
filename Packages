@@ -802,25 +802,6 @@ Icon: https://axs66.github.io/repo/icon/actionbar.png
 Name: ActionBar Reborn
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.aimpro
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: ellekit, mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
-Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
-Filename: ./debs/com.Axs.aimpro_1.0.6_iphoneos-arm64.deb
-Size: 2328020
-MD5sum: 5e82bb26f460062ca6487739bf30034f
-SHA1: 8e99c8241662d129df9833b73de5eceb34f1296d
-SHA256: c7f9f9ce47c0532a0fa6012c297d9c296d250d35f88651e02d8797b9380f73d5
-Section: 系统增强
-Description: iOS 16 Style Time & Date Lockscreen
-Author: alimaulana
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/aimpro.png
-Name: AIM Pro锁屏自定义
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
