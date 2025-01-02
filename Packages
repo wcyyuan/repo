@@ -1111,6 +1111,23 @@ Icon: https://axs66.github.io/repo/icon/h5gg.png
 Name: H5GG跨进程悬浮版
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/h5gg/js.json
 
+Package: com.Axs.kbapp
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.kbapp_1.5_iphoneos-arm64.deb
+Size: 807020
+MD5sum: c091fe7a8864239ed4b90424ec1bfa46
+SHA1: 8c3bc51246505852f2bbf3a40c66ee556894bcc6
+SHA256: 32382c48510763e42e760debbca3f9e0bda96cfe58df0f20f49eecc06352b902
+Section: 系统增强
+Description: You can arrange apps on the dock of keyboard｜KBApp 是一款在键盘底部添加快捷按钮或者App的插件
+Author: Dcsyhi
+Icon: https://axs66.github.io/repo/icon/kbapp.png
+Name: KBApp
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/kbapp/js.json
+
 Package: com.Axs.keyboard
 Version: 1.1-8
 Architecture: iphoneos-arm64
